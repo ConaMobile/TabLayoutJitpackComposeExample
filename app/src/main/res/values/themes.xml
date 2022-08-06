@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.TabLayoutJitpackComposeExample" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#FF0F9D58</item>
+    </style>
+</resources>
